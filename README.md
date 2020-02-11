@@ -1,2 +1,2 @@
 Small project practicing java OOP concepts of class 
-creation and instanciation
+creation and instantiation
