@@ -1,0 +1,33 @@
+School Management System Specifications
+
+Money Management System for School
+    -keep track of student fees
+    -fees already paid
+    -teacher salary
+
+School
+    -departments
+    -teacher
+    -student
+    -money earned
+    -money spent - teacher salary
+
+//future implementation
+Department
+    -teacher
+    -majors
+    -student
+
+Teacher
+    -id
+    -name
+    -department
+    -salary
+    -course teaching
+
+Student
+    -id
+    -name
+    -major
+    -fees paid
+    -fees total
